@@ -5,7 +5,7 @@ public class GuessingGame {
       int denemeSayisi = 0;
       
       System.out.println("1 ile 100 arasında bir sayı tuttum. Tahmin etmeye çalış");
-      System.out.println("Oyunu durdurmak için 'q' yazabilirsiniz.");
+      System.out.println("Oyunu durdurmak için 'q' yazın.");
 
       while (tahmin != randomNum) {
           System.out.print("Tahmininizi girin: ");
