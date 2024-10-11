@@ -12,7 +12,7 @@ public class GuessingGame {
             String input = System.console().readLine();  
 
             if (input.equalsIgnoreCase("q")) {
-                System.out.println("Oyunu sonlandırdınız.");
+                System.out.println("Oyun bitti.");
                 break;
             }
 
